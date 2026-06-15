@@ -24,11 +24,3 @@ Key areas of focus include:
 * **Geospatial Analysis (Optional):** `geopandas` or `folium` (if mapping tools are included)
 * **Environment:** Jupyter Notebooks
 
-## 📂 Project Structure
-```text
-├── data/                  # Raw and processed datasets (CSV, Excel, etc.)
-├── notebooks/             # Jupyter Notebooks containing the core analysis & EDA
-├── src/                   # Reusable Python helper scripts and source code
-├── plots/                 # Exported charts, maps, and visualizations
-├── requirements.txt       # List of Python dependencies
-└── README.md              # Project documentation
